@@ -23,4 +23,12 @@ public class TestCase {
 		driver.quit();
 
 	}
+	
+	
+	
+	@Test
+	public void tc2() {
+		System.out.println("-- Executing TestCase tc2 -- ");
+	}
+	
 }
